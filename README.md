@@ -35,18 +35,8 @@ Here are some of the projects I've worked on:
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
-## Skills
-
-- Mobile App Development (Android)
-- Machine Learning (ML) and Deep Learning (DL)
-- Python, Java, Kotlin, Jetpack Compose
-- TensorFlow, PyTorch, Scikit-Learn
-- Data Analysis and Visualization
-- Git and Version Control
-
   ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 
 ### Frontend  
