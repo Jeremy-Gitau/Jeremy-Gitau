@@ -23,6 +23,7 @@ Welcome to my GitHub profile! I'm passionate about creating innovative mobile ap
 - 👨‍💻 I love building mobile apps that provide value and exceptional user experiences.
 - 🧠 I'm enthusiastic about machine learning, from training models to deploying them in production.
 - 💻 I'm a technical writer, mainly writing about Machine learning, AI, and Mobile development content.
+- 📱 I'm collaborating on an Android project called Mitch AI which is an Android virtual assistant that uses the power of AI.
 
 ## Projects
 
