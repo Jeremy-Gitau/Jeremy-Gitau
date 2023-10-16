@@ -28,14 +28,10 @@ Welcome to my GitHub profile! I'm passionate about creating innovative mobile ap
 
 Here are some of the projects I've worked on:
 
-### Mobile Apps
 1. **[Mitch AI]** - [Still in progress]
-
-### Machine Learning
-
-1. **[paraphraser]** 
-
-2. **[plant disease prediction]** 
+2. **[weather web app]**(https://github.com/Jeremy-Gitau/Weather-Web-App-using-an-API)
+3. **[paraphraser]**(https://github.com/Jeremy-Gitau/Text_paraphraser_using_parrot)
+4. **[heart disease prediction]**(https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
