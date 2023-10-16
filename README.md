@@ -30,8 +30,8 @@ Here are some of the projects I've worked on:
 
 1. **[Mitch AI]** - [Still in progress]
 2. [weather web app](https://github.com/Jeremy-Gitau/Weather-Web-App-using-an-API)
-3. [paraphraser](https://github.com/Jeremy-Gitau/Text_paraphraser_using_parrot)
-4. [heart disease prediction](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
+3. [Text paraphrase using parrot ML](https://github.com/Jeremy-Gitau/Text_paraphraser_using_parrot)
+4. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
