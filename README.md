@@ -113,13 +113,6 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 
 <br/>
 
-
-## Contact Me
-
-- 📧 Email: [jeremyjey254@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/jeremy-gitau-3102611a0/]
-- 🐦 Twitter: [https://twitter.com/_JeremyGitau]
-
 Let's connect and collaborate on exciting projects!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jeremy-Gitau.Jeremy-Gitau)
