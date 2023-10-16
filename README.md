@@ -1,4 +1,7 @@
 # Hello, I'm [Jeremy Gitau]
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Jeremy-Gitau&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+
+<br/>  
 
 📱 Mobile App Developer | 🤖 Machine Learning Engineer | Backend Developer
 
@@ -127,12 +130,6 @@ Feel free to explore my GitHub repositories for more projects and code samples.
 </a>  
 </div>  
   
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
