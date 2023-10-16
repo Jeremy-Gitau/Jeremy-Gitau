@@ -29,29 +29,18 @@ Welcome to my GitHub profile! I'm passionate about creating innovative mobile ap
 Here are some of the projects I've worked on:
 
 ### Mobile Apps
-#### Still in progress
-1. **[Mitch AI]** - [It is a virtual assistant for your Android app that uses the power and capabilities of chat GPT]
-   - [GitHub Repository]
-   - [Demo Link (if available)]
-   - [Jetpack Compose, ktor, firebase/firestore, kotlin, API]
+1. **[Mitch AI]** - [Still in progress]
 
 ### Machine Learning
 
-1. **[paraphraser]** - [Brief Description]
-   - [GitHub Repository]
-   - [Demo Link (if available)]
-   - [Technologies and Libraries Used]
+1. **[paraphraser]** 
 
-2. **[plant disease prediction]** - [Brief Description]
-   - [GitHub Repository]
-   - [Demo Link (if available)]
-   - [Technologies and Libraries Used]
+2. **[plant disease prediction]** 
 
 Feel free to explore my GitHub repositories for more projects and code samples.
 
   ## My Skill Set  
 <table><tr><td valign="top" width="33%">
-
 
 ### Frontend  
 <div align="center">  
@@ -135,5 +124,5 @@ Let's connect and collaborate on exciting projects!
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Jeremy-Gitau.Jeremy-Gitau)
 
-[![GitHub](https://img.shields.io/github/followers/YourUsername?label=Follow&style=social)](https://github.com/Jeremy-Gitau)
+[![GitHub](https://img.shields.io/github/followers/Jeremy-Gitau?label=Follow&style=social)](https://github.com/Jeremy-Gitau)
 
