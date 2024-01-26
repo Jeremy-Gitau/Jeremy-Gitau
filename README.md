@@ -21,9 +21,9 @@ Welcome to my GitHub profile! I'm passionate about creating innovative mobile ap
 ## About Me
 
 - 👨‍💻 I love building mobile apps that provide value and exceptional user experiences.
-- 🧠 I'm enthusiastic about machine learning, from training models to deploying them in production.
+- 🧠 I'm enthusiastic about machine learning and AI, from Data Collection, Data Cleaning, Data Analysis, and Training Models to deploying them in production.
 - 💻 I'm a technical writer, mainly writing about Machine learning, AI, and Mobile development content.
-- 📱 I'm collaborating on an Android project called Mitch AI which is an Android virtual assistant that uses the power of AI.
+- 📱 I'm collaborating on an Android project called Mitch AI, an Android virtual assistant that uses the power of AI.
 
 ## Projects
 
@@ -34,7 +34,7 @@ Here are some of the projects I've worked on:
 3. [Text paraphraser using parrot ML](https://github.com/Jeremy-Gitau/Text_paraphraser_using_parrot)
 4. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
 
-Feel free to explore my GitHub repositories for more projects and code samples.
+You can explore my GitHub repositories for more projects and code samples.
 
   ## My Skill Set  
 <table><tr><td valign="top" width="33%">
