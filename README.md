@@ -14,7 +14,7 @@
 </a>  
 </div> 
 
-📱 Mobile App Developer | 🤖 Machine Learning Engineer | Backend Developer
+📱 Mobile App Developer | 🤖 Machine Learning Engineer | Backend Engineer
 
 Welcome to my GitHub profile! I am an Android Engineer and an AI/Machine Learning Engineer. I am passionate about creating innovative mobile apps and leveraging the power of machine learning to solve real-world problems. Here, you'll find a glimpse of my projects and contributions in these domains.
 
