@@ -20,7 +20,7 @@ Welcome to my GitHub profile! I am an Android Engineer and an AI/Machine Learnin
 
 ## About Me
 
-- 👨‍💻 I love building mobile apps that provide value and exceptional user experiences.
+- 👨‍💻 I love building mobile apps that are Clean(Clean Architecture), industry standard, modularised, tested, and  provide value and exceptional user experiences.
 - 🧠 I'm enthusiastic about machine learning and AI, from Data Collection, Data Cleaning, Data Analysis, and Training Models to deploying them in production.
 - 💻 I'm a technical writer, mainly writing about Machine learning, AI, and Mobile development content.
 - 📱 I'm collaborating on an Android project called Mitch AI, an Android virtual assistant that uses the power of AI.
