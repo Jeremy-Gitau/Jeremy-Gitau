@@ -30,7 +30,7 @@ Welcome to my GitHub profile! I am an Android Engineer and an AI/Machine Learnin
 Here are some of the projects I've worked on:
 
 1. **[Mitch AI]** - [Still in progress]
-2. [weather web app](https://github.com/Jeremy-Gitau/Weather-Web-App-using-an-API)
+2. [Weather App](https://github.com/Jeremy-Gitau/Drizzl)
 3. [Skin Cancer Disease Detection](https://github.com/Jeremy-Gitau/skin_cancer_detection)
 4. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
 
