@@ -12,6 +12,9 @@
 <a href="https://hashnode.com/@mitch&jerry" target="_blank">
 <img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
 </a>  
+<a href="https://www.fiverr.com/s/pdLww1G" target="_blank">
+<img src="https://img.shields.io/badge/fiverr-%2300B22D.svg?&style=for-the-badge&logo=fiverr&logoColor=white" alt="Fiverr" style="margin-bottom: 5px;" />
+</a>
 </div> 
 
 📱 Android Engineer | 🤖 Machine Learning/AI Engineer | Backend Engineer
