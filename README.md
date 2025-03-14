@@ -32,11 +32,12 @@ I help businesses and individuals streamline operations, automate workflows, and
 Here are some of the projects I've worked on:
 
 1. **[Mitch AI]** - [Still in progress]- An AI chatbot harnessing OpenAi capabilities
-2. [Compose Weather App](https://github.com/Jeremy-Gitau/Drizzl)
-3. [Flutter Crypto APP](https://github.com/Jeremy-Gitau/capcoin)
-4. [Skin Cancer Disease Detection Android App](https://github.com/Jeremy-Gitau/skin_cancer_detection)
-5. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
-6. [Plant Leaf Disease Detection Android App](https://github.com/Jeremy-Gitau/Plant_leaf_detector_android_app)
+2. [Llama Chatbot with Sentiment Analysis Integration](https://github.com/Jeremy-Gitau/Llama-Chatbot-with-Sentiment-Analysis-Integration)
+3. [Compose Weather App](https://github.com/Jeremy-Gitau/Drizzl)
+4. [Flutter Crypto APP](https://github.com/Jeremy-Gitau/capcoin)
+5. [Skin Cancer Disease Detection Android App](https://github.com/Jeremy-Gitau/skin_cancer_detection)
+6. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
+7. [Plant Leaf Disease Detection Android App](https://github.com/Jeremy-Gitau/Plant_leaf_detector_android_app)
 
 You can explore my GitHub repositories for more projects and code samples.
 
