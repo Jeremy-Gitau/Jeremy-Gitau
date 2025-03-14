@@ -1,4 +1,4 @@
-# Hello, I'm [Jeremy Gitau]
+# Hello, I'm Jeremy Gitau
 <div align="center">
 <a href="https://github.com/Jeremy-Gitau" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -36,11 +36,12 @@ Here are some of the projects I've worked on:
 
 1. **[Mitch AI]** - [Still in progress]- An AI chatbot harnessing OpenAi capabilities
 2. [Llama Chatbot with Sentiment Analysis Integration](https://github.com/Jeremy-Gitau/Llama-Chatbot-with-Sentiment-Analysis-Integration)
-3. [Compose Weather App](https://github.com/Jeremy-Gitau/Drizzl)
-4. [Flutter Crypto APP](https://github.com/Jeremy-Gitau/capcoin)
-5. [Skin Cancer Disease Detection Android App](https://github.com/Jeremy-Gitau/skin_cancer_detection)
-6. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
-7. [Plant Leaf Disease Detection Android App](https://github.com/Jeremy-Gitau/Plant_leaf_detector_android_app)
+3. [Recommendation system using nlu](https://github.com/Jeremy-Gitau/movie-recommendation-system)
+4. [Compose Weather App](https://github.com/Jeremy-Gitau/Drizzl)
+5. [Flutter Crypto APP](https://github.com/Jeremy-Gitau/capcoin)
+6. [Skin Cancer Disease Detection Android App](https://github.com/Jeremy-Gitau/skin_cancer_detection)
+7. [heart disease prediction ML](https://github.com/Jeremy-Gitau/heart-disease-prediction-ML)
+8. [Plant Leaf Disease Detection Android App](https://github.com/Jeremy-Gitau/Plant_leaf_detector_android_app)
 
 You can explore my GitHub repositories for more projects and code samples.
 
