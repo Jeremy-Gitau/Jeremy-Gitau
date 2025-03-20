@@ -22,6 +22,7 @@
 I help businesses and individuals streamline operations, automate workflows, and enhance user experiences using AI and cross-platform technologies.
 
 🚀 What I Do:
+
 🔹 Co-organizer at [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) & [Android254](https://www.meetup.com/android254/)
 🔹 Build AI-powered solutions & automation for businesses and individuals
 🔹 Develop cross-platform apps using Flutter & Kotlin Multiplatform (KMP)
@@ -36,7 +37,7 @@ Here are some of the projects I've worked on:
 
 1. **[Mitch AI]** - [Still in progress]- An AI chatbot harnessing OpenAi capabilities
 2. [Llama Chatbot with Sentiment Analysis Integration](https://github.com/Jeremy-Gitau/Llama-Chatbot-with-Sentiment-Analysis-Integration)
-3. [Recommendation system using nlu](https://github.com/Jeremy-Gitau/movie-recommendation-system)
+3. [Recommendation system using nlp](https://github.com/Jeremy-Gitau/movie-recommendation-system)
 4. [Compose Weather App](https://github.com/Jeremy-Gitau/Drizzl)
 5. [Flutter Crypto APP](https://github.com/Jeremy-Gitau/capcoin)
 6. [Skin Cancer Disease Detection Android App](https://github.com/Jeremy-Gitau/skin_cancer_detection)
