@@ -22,7 +22,7 @@
 I help businesses and individuals streamline operations, automate workflows, and enhance user experiences using AI and cross-platform technologies.
 
 🚀 What I Do:
-🔹 Organizer at Kotlin Kenya & Android254
+🔹 Co-organizer at [Kotlin Kenya](https://www.meetup.com/kotlinkenya/) & [Android254](https://www.meetup.com/android254/)
 🔹 Build AI-powered solutions & automation for businesses and individuals
 🔹 Develop cross-platform apps using Flutter & Kotlin Multiplatform (KMP)
 🔹 Provide backend solutions with FastAPI, Flask, Django, and Firebase
